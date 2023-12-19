@@ -117,7 +117,8 @@ SEC
 </html>
 ```
 ## Output:
-![PREM KUMAR](https://github.com/premsuryas/cover-page-design/assets/147473858/aad548b1-0df3-49de-8daf-64fcee2b3e08)
+![Screenshot from 2023-12-20 04-20-36](https://github.com/premsuryas/cover-page-design/assets/147473858/24350d8b-0c50-4334-9c7a-d07ac4c0bef0)
+
 
 
 
