@@ -10,6 +10,7 @@ Write your own steps here.
 use a background image 
 
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,7 +115,7 @@ SEC
 </div>
 </body>
 </html>
-
+```
 ## Output:
 ![Uploading PREM KUMAR.png…]()
 
