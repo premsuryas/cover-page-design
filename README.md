@@ -117,7 +117,8 @@ SEC
 </html>
 ```
 ## Output:
-![Uploading PREM KUMAR.png…]()
+![PREM KUMAR](https://github.com/premsuryas/cover-page-design/assets/147473858/aad548b1-0df3-49de-8daf-64fcee2b3e08)
+
 
 
 ## Result:
